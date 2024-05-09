@@ -42,7 +42,7 @@
     "devDependencies": {
         "@enter-at/eslint-config-typescript-prettier": "1.6.0",
         "@faker-js/faker": "7.6.0",
-        "@tsconfig/node18": "1.0.1",
+        "@tsconfig/node18": "1.0.3",
         "@types/aws-lambda": "8.10.109",
         "@types/aws-sdk": "2.7.0",
         "@types/jest": "29.2.4",
