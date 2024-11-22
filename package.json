@@ -40,7 +40,7 @@
     },
     "homepage": "https://github.com/enter-at/node-aws-lambda-handlers#readme",
     "devDependencies": {
-        "@enter-at/eslint-config-typescript-prettier": "1.6.0",
+        "@enter-at/eslint-config-typescript-prettier": "1.9.33",
         "@faker-js/faker": "7.6.0",
         "@tsconfig/node18": "1.0.1",
         "@types/aws-lambda": "8.10.109",
